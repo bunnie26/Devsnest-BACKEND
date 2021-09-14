@@ -1,6 +1,6 @@
 # NodeJS
 
-Commands in node REPL (interactive mode/read-evaluate-print loop). Run REPL
+Commands in node REPL (Interactive mode/read-evaluate-print loop). Run REPL
 using `node`.
 
 ```js
