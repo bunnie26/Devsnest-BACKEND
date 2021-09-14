@@ -2,7 +2,7 @@
 
 ## NPM
 
-NPM packages can only be installed in folders with `package.json`. This can be
+NPM packages can only be Installed in folders with `package.json`. This can be
 created by running `npm init` in a folder, and answering the questions it asks.
 The `package.json` file indicates that the current folder is a node app.
 
