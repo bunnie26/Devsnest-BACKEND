@@ -1,4 +1,4 @@
-Practice Redis:
+Practice redis:
 Channel
 
 # basic
