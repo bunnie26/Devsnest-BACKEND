@@ -1,8 +1,8 @@
 # Event Loop and Async Programming
 
-Imagine we are making a database query that takes 10 seconds to run. In
+Imagine we are making a Database query that takes 10 seconds to run. In
 synchronous programming, our program will wait for 10 seconds for the query to
-complete. However in asynchronous programming, the rest of the program will
+complete. However in Asynchronous programming, the rest of the program will
 continue running when the query is made. After 10 seconds, when the query
 returns the result, a callback function is called which handles the response.
 
