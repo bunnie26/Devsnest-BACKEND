@@ -1,4 +1,4 @@
-POSTGRES INSTALLATION
+Postgress Installation
 
 For linux
 sudo -u postgres psql
